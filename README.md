@@ -9,10 +9,8 @@
 ## Description
 This project is a MineSweepwe game.
 At the beginning the player enters the level of the game, and the system builds the board of the game.
+The system builds two matrices, the first one includes the mines and the empty cells, and the neighbors of the mines. The secound matrix stored the cells that had been already opened.
 The player chooses any cell in the board, and the system shows him the result of his choise.
-
-
-
 
 ## Example
 The player needs to choose the difficulty level to start the game. In each turn he needs to enter the coordinate of the cell:
