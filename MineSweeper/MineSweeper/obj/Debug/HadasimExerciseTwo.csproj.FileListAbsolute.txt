@@ -1,0 +1,7 @@
+D:\users\user1\Downloads\Hadasim\HadasimExerciseTwo\HadasimExerciseTwo\bin\Debug\HadasimExerciseTwo.exe.config
+D:\users\user1\Downloads\Hadasim\HadasimExerciseTwo\HadasimExerciseTwo\bin\Debug\HadasimExerciseTwo.exe
+D:\users\user1\Downloads\Hadasim\HadasimExerciseTwo\HadasimExerciseTwo\bin\Debug\HadasimExerciseTwo.pdb
+D:\users\user1\Downloads\Hadasim\HadasimExerciseTwo\HadasimExerciseTwo\obj\Debug\HadasimExerciseTwo.csprojAssemblyReference.cache
+D:\users\user1\Downloads\Hadasim\HadasimExerciseTwo\HadasimExerciseTwo\obj\Debug\HadasimExerciseTwo.csproj.CoreCompileInputs.cache
+D:\users\user1\Downloads\Hadasim\HadasimExerciseTwo\HadasimExerciseTwo\obj\Debug\HadasimExerciseTwo.exe
+D:\users\user1\Downloads\Hadasim\HadasimExerciseTwo\HadasimExerciseTwo\obj\Debug\HadasimExerciseTwo.pdb

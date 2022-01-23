@@ -1,0 +1,7 @@
+D:\users\user1\Downloads\HadasimExerciseTwo\MineSweeper\MineSweeper\bin\Debug\HadasimExerciseTwo.exe.config
+D:\users\user1\Downloads\HadasimExerciseTwo\MineSweeper\MineSweeper\bin\Debug\HadasimExerciseTwo.exe
+D:\users\user1\Downloads\HadasimExerciseTwo\MineSweeper\MineSweeper\bin\Debug\HadasimExerciseTwo.pdb
+D:\users\user1\Downloads\HadasimExerciseTwo\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+D:\users\user1\Downloads\HadasimExerciseTwo\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+D:\users\user1\Downloads\HadasimExerciseTwo\MineSweeper\MineSweeper\obj\Debug\HadasimExerciseTwo.exe
+D:\users\user1\Downloads\HadasimExerciseTwo\MineSweeper\MineSweeper\obj\Debug\HadasimExerciseTwo.pdb
